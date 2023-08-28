@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="code.gif" width="500" height="250"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
-🔭 <b> I'm Bashitha Yomal, a passionate self-taught full stack web developer from Sri Lanka. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+🔭 <b>  I'm Bashitha Yomal, a passionate self-taught full stack web developer from Sri Lanka. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
 
 ✍ I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </b>
 
