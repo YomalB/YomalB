@@ -34,7 +34,7 @@
 </div>
 
 <br>
-<div>
+<!-- <div>
 <h2>📈 Stats</h2>
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=viharasenindu&theme=dracula&count_private=true"></div>
 
@@ -42,22 +42,22 @@
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nipuni-udari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nipuni-udari/github-readme-stats) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <div align="left">
- <a href="https://www.behance.net/viharasenindu" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vihara-senindu-11a14a284/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/vsenidnu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="http://www.viharasenindu.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-  <a href="https://www.youtube.com/@viharasenindu/videos" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/vihara_senindu/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:viharasenindu22@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--  <a href="https://www.behance.net/viharasenindu" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/bashitha-yomal-185226259/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/vsenidnu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
+<!--   <a href="http://www.viharasenindu.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a> -->
+  <a href="https://youtube.com/@bashithayomal6024?si=4HpfsUT6qwUpK9V7" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://instagram.com/bashitha_y?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:bashiyml10smd@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 </p>
 <br>
 
-⭐ From [Vihara-Senindu](https://github.com/viharasenindu)
+⭐ From [Bashitha Yomal](https://github.com/YomalB)
