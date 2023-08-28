@@ -9,9 +9,9 @@
 
 <br>
 <div>
-<h3 align="left">✍ Recent Blogs</h3>
+<!-- <h3 align="left">✍ Recent Blogs</h3> -->
 
-<a href="http://www.viharasenindu.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+
 
 </div>
 <br>
